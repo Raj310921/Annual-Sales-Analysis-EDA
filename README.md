@@ -29,20 +29,24 @@ The following tasks were performed during this project:
 The project explored the following high-level business questions related to the sales data:
 
 1. **Best Month for Sales**: Identify the best month for sales and determine the total earnings for that month.
+   
    ![Best Month for Sales](Images/Viz-Q1.PNG)
 
 2. **Top-Performing City**: Determine which city sold the most products.
-   ![Top-Performing City](images/top_performing_city.png)
+   
+   ![Top-Performing City](Images/Viz-Q2.PNG)
 
 3. **Optimal Advertisement Timing**: Analyze the data to find the best time to display advertisements to maximize the likelihood of customer purchases.
-   ![Optimal Advertisement Timing](images/optimal_ad_timing.png)
+   
+   ![Optimal Advertisement Timing](Images/Viz-Q3.PNG)
 
 4. **Frequently Sold Products**: Identify products that are most often sold together.
-   ![Frequently Sold Products](images/frequently_sold_products.png)
+   
+   ![Frequently Sold Products](Images/Viz-Q4.PNG)
 
 5. **Top-Selling Product**: Determine the product that sold the most and provide insights into why it achieved the highest sales.
-   - ![Top-Selling Product (Bar Graph)](images/top_selling_product_bar.png)
-   - ![Top-Selling Product (Line Plot)](images/top_selling_product_line.png)
+   - ![Top-Selling Product (Bar Graph)](Images/Viz-Q5_1.PNG)
+   - ![Top-Selling Product (Line Plot)](Images/Viz-Q5_2.PNG)
 
 
 ## Tools and Libraries

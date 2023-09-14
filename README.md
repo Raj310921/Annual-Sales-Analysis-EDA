@@ -61,7 +61,7 @@ The project was developed using Jupyter Notebook, a popular environment for data
 
 To explore and reproduce the results of this project, follow these steps:
 
-1. Clone the project repository.
+1. Clone the project repository / download the zip file.
 
 2. Open the Jupyter Notebook file provided in the repository.
 

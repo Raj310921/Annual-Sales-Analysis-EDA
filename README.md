@@ -29,7 +29,7 @@ The following tasks were performed during this project:
 The project explored the following high-level business questions related to the sales data:
 
 1. **Best Month for Sales**: Identify the best month for sales and determine the total earnings for that month.
-   ![Best Month for Sales](images/best_month_sales.png)
+   ![Best Month for Sales](Images/Viz-Q1.PNG)
 
 2. **Top-Performing City**: Determine which city sold the most products.
    ![Top-Performing City](images/top_performing_city.png)

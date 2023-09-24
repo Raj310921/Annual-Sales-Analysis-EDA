@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The "Annual Sales Analysis" project involves the analysis of sales data for a XYZ company across 12 different months. The project includes data cleaning, data preprocessing, data exploration, and visualization to answer key business questions related to the sales data.
+The "Annual Sales Analysis" project involves the analysis of sales data for an electronic store across 12 different months. The project includes data cleaning, data preprocessing, data exploration, and visualization to answer key business questions related to the sales data.
 
 ## Project Tasks
 
